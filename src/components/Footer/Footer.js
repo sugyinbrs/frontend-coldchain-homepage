@@ -31,8 +31,9 @@ const Footer = () => {
           <InfoTitle>Others</InfoTitle>
           <HorizontalLine />
           <InfoLinkContent to="/">인재채용</InfoLinkContent>
-          <InfoLinkContent to="/">사업자등록번호: 561-88-01138</InfoLinkContent>
-          <InfoLinkContent to="/">대표자: 이성일</InfoLinkContent>
+          <InfoLinkContent to="/">서비스 소개</InfoLinkContent>
+          <InfoLinkContent to="/">개인정보 처리방침</InfoLinkContent>
+          <InfoLinkContent to="/">위치기반 서비스 이용약관</InfoLinkContent>
         </InfoBoxContainer>
       </UpperContainer>
       <LowerContainer>

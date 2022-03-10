@@ -2,7 +2,7 @@ import React from "react";
 import NavbarList from "./NavbarList";
 import styled from "styled-components";
 
-const Nav = () => {
+const Navbar = () => {
   return (
     <Navigator>
       <Icon>
@@ -16,7 +16,7 @@ const Nav = () => {
   );
 };
 
-export default Nav;
+export default Navbar;
 
 const Navigator = styled.div`
   position: fixed;

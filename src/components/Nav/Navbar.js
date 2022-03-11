@@ -27,6 +27,8 @@ const Navigator = styled.div`
   width: 100%;
   height: 70px;
   padding: 13px;
+  background-color: #fff;
+  z-index: 100;
 `;
 
 const Icon = styled.div`

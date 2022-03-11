@@ -1,7 +1,8 @@
 import React from "react";
+import Arrows from "./CarouselSlider/Arrows";
 
 const Main = () => {
-  return <div>Main</div>;
+  return <Arrows />;
 };
 
 export default Main;

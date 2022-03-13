@@ -24,14 +24,14 @@ const CardInfoContainer = styled.div`
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  flex-basis: 420px;
+  flex-basis: 300px;
   width: 25%;
   padding: 16px;
   margin: 0 auto;
 `;
 
 const CardImage = styled.img`
-  width: 420px;
+  width: 300px;
 `;
 
 const CardInfo = styled.div`

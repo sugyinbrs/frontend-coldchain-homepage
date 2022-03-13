@@ -18,7 +18,7 @@ const Navbar = () => {
 
 export default Navbar;
 
-const Navigator = styled.div`
+const Navigator = styled.nav`
   position: fixed;
   top: 0;
   display: flex;

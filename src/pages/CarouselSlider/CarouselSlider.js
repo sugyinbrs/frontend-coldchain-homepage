@@ -39,7 +39,7 @@ const CarouselSlider = () => {
 
 export default CarouselSlider;
 
-const StyledSlider = styled.div`
+const StyledSlider = styled.section`
   height: 100vh;
   overflow: hidden;
 `;

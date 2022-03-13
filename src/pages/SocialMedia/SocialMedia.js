@@ -1,5 +1,4 @@
 import React from "react";
-import { IMAGES } from "../CarouselSlider/CarouselSliderData";
 import styled from "styled-components";
 
 const SocialMedia = () => {
